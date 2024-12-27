@@ -1,66 +1,56 @@
-# Mayın Tarlası Oyunu
+# Minesweeper Game
 
-Bu proje, klasik **Mayın Tarlası** oyununu temel alan bir masaüstü uygulamasıdır. Oyuncu, mayınlarla dolu bir alanda güvenli hücreleri açmaya çalışırken olabildiğince hızlı ve dikkatli hareket etmelidir. Uygulama, C# ve Windows Forms kullanılarak geliştirilmiştir.
-
----
-
-## Özellikler
-- **Dinamik Grid Yapısı**: Oyunun zorluk seviyesi için grid boyutunu ve mayın sayısını kullanıcı belirleyebilir.
-- **Skor Tablosu**: Oyuncuların skorlarını saklar ve oyun sonrasında görüntüler.
-- **Bayrak Yerleştirme**: Mayın olduğunu düşündüğünüz hücrelere bayrak koyabilirsiniz.
-- **Responsive Tasarım**: Farklı ekran boyutlarında uyumlu çalışır.
-- **Zaman Takibi**: Oyunun süresini takip eder ve skoru buna göre hesaplar.
+This project is a desktop application based on the classic **Minesweeper** game. Players must open safe cells in a minefield while being as quick and careful as possible. The application is developed using C# and Windows Forms.
 
 ---
 
-## Kurulum
-### Gereksinimler
-- .NET Framework (v4.7.2 veya üstü)
-- Visual Studio 2022 (veya uyumlu IDE)
+## Features
+- **Dynamic Grid System**: Players can customize the grid size and the number of mines to adjust the difficulty level.
+- **Scoreboard**: Tracks and displays player scores after each game.
+- **Flag Placement**: Mark cells you suspect to contain mines with flags.
+- **Responsive Design**: Adapts to different screen sizes seamlessly.
+- **Time Tracking**: Monitors the game's duration and incorporates it into the score calculation.
 
-### Adımlar
-1. **Depoyu Klonlayın**
+---
+
+## Installation
+### Requirements
+- .NET Framework (v4.7.2 or later)
+- Visual Studio 2022 (or a compatible IDE)
+
+### Steps
+1. **Clone the Repository**
    ```bash
-   git clone https://github.com/kullanici_adiniz/mayin-tarlasi.git
+   git clone https://github.com/your_username/minesweeper-game.git
    ```
-2. **Projeyi Açın**
-   - Visual Studio'yu açın ve `MayinTarlasi.sln` dosyasını yükleyin.
-3. **Bağımlılıkları Yükleyin**
-   - Gerekli tüm bağımlılıklar Visual Studio tarafından otomatik olarak yüklenir.
-4. **Çalıştırın**
-   - `F5` tuşuna basarak projeyi çalıştırabilirsiniz.
+2. **Open the Project**
+   - Launch Visual Studio and load the `MayinTarlasi.sln` file.
+3. **Install Dependencies**
+   - Visual Studio will automatically install all required dependencies.
+4. **Run the Application**
+   - Press `F5` to build and run the project.
 
 ---
 
-## Kullanım
-1. Uygulamayı başlattığınızda, kullanıcı adı, grid boyutu ve mayın sayısını seçmeniz istenir.
-2. Oyun başladığında, güvenli hücreleri açmak için hücrelere sol tıklayın.
-   - Sağ tıklayarak hücrelere bayrak yerleştirebilirsiniz.
-3. Oyunun sonunda skorunuz hesaplanır ve skor tablosuna kaydedilir.
+## Usage
+1. When the application starts, enter your username and configure the grid size and the number of mines.
+2. Once the game begins, open safe cells by left-clicking on them.
+   - Right-click to place flags on suspected mine cells.
+3. At the end of the game, your score is calculated and recorded on the scoreboard.
 
 ---
 
-## Ekran Görüntüleri
-### Ana Oyun Ekranı
-![Oyun Ekranı](https://via.placeholder.com/800x400?text=Oyun+Ekranı)
 
-### Skor Tablosu
-![Skor Tablosu](https://via.placeholder.com/800x400?text=Skor+Tablosu)
+## Development
+### New Features
+- UI support for different themes.
+- Multiplayer mode.
+- Database integration for comprehensive score management.
 
----
+### Contribution
+1. Fork this repository to your account.
+2. Add new features and test them thoroughly.
+3. Submit a pull request for review.
+4. Report issues to help improve the project.
 
-## Geliştirme
-### Yeni Özellikler
-- Farklı temalar için UI desteği
-- Çok oyunculu mod
-- Veritabanına bağlantı ile daha kapsamlı skor yönetimi
 
-### Katkı
-1. Fork yaparak projeyi kendi hesabınıza klonlayabilirsiniz.
-2. Yeni özellikler ekleyip pull request gönderebilirsiniz.
-3. Hataları bildirerek projeyi geliştirmemize yardımcı olabilirsiniz.
-
----
-
-## Lisans
-Bu proje MIT Lisansı altında sunulmaktadır. Daha fazla bilgi için `LICENSE` dosyasına bakabilirsiniz.
