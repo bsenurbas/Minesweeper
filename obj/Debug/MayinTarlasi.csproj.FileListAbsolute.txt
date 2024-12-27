@@ -1,0 +1,12 @@
+C:\Users\bsenu\OneDrive\Masaüstü\dersler\5.Dönem\YZM209 Programlama Laboratuvarı 3\Mayın Tarlası Proje 1\MayinTarlasi\bin\Debug\MayinTarlasi.exe.config
+C:\Users\bsenu\OneDrive\Masaüstü\dersler\5.Dönem\YZM209 Programlama Laboratuvarı 3\Mayın Tarlası Proje 1\MayinTarlasi\bin\Debug\MayinTarlasi.exe
+C:\Users\bsenu\OneDrive\Masaüstü\dersler\5.Dönem\YZM209 Programlama Laboratuvarı 3\Mayın Tarlası Proje 1\MayinTarlasi\bin\Debug\MayinTarlasi.pdb
+C:\Users\bsenu\OneDrive\Masaüstü\dersler\5.Dönem\YZM209 Programlama Laboratuvarı 3\Mayın Tarlası Proje 1\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.AssemblyReference.cache
+C:\Users\bsenu\OneDrive\Masaüstü\dersler\5.Dönem\YZM209 Programlama Laboratuvarı 3\Mayın Tarlası Proje 1\MayinTarlasi\obj\Debug\MayinTarlasi.Form1.resources
+C:\Users\bsenu\OneDrive\Masaüstü\dersler\5.Dönem\YZM209 Programlama Laboratuvarı 3\Mayın Tarlası Proje 1\MayinTarlasi\obj\Debug\MayinTarlasi.Properties.Resources.resources
+C:\Users\bsenu\OneDrive\Masaüstü\dersler\5.Dönem\YZM209 Programlama Laboratuvarı 3\Mayın Tarlası Proje 1\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.GenerateResource.cache
+C:\Users\bsenu\OneDrive\Masaüstü\dersler\5.Dönem\YZM209 Programlama Laboratuvarı 3\Mayın Tarlası Proje 1\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.CoreCompileInputs.cache
+C:\Users\bsenu\OneDrive\Masaüstü\dersler\5.Dönem\YZM209 Programlama Laboratuvarı 3\Mayın Tarlası Proje 1\MayinTarlasi\obj\Debug\MayinTarlasi.exe
+C:\Users\bsenu\OneDrive\Masaüstü\dersler\5.Dönem\YZM209 Programlama Laboratuvarı 3\Mayın Tarlası Proje 1\MayinTarlasi\obj\Debug\MayinTarlasi.pdb
+C:\Users\bsenu\OneDrive\Masaüstü\dersler\5.Dönem\YZM209 Programlama Laboratuvarı 3\Mayın Tarlası Proje 1\MayinTarlasi\obj\Debug\MayinTarlasi.UserForm.resources
+C:\Users\bsenu\OneDrive\Masaüstü\dersler\5.Dönem\YZM209 Programlama Laboratuvarı 3\Mayın Tarlası Proje 1\MayinTarlasi\obj\Debug\MayinTarlasi.SkorForm.resources
